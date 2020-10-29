@@ -1,5 +1,5 @@
 ### Hi there 👋🏼,
-I am a **Developer** having interest in Building Mobile Application 📱 (React Native/iOS/Android).
+I am a **Developer** having interest in Building Mobile Application 📱 (React Native/iOS/Android). ([CV](https://drive.google.com/file/d/1NUzlqL07E3JHV_PpdvgZ8A6lD4T-G1gO/))
 
 **Recent Project:**
 - 🗨️ Ez Chat App - Building a real-time chat application using JavaScript (Single-page application). [(Website)](http://ezchatapp.herokuapp.com/html/index.html)
