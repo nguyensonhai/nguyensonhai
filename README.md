@@ -9,6 +9,6 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 - 🌱 Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors. ([More details](https://github.com/nguyensonhai/eztreecare))
 - 🗨️ Ez Chat App - Building a real-time chat application using JavaScript (Single-page application). ([More details](https://github.com/nguyensonhai/ezchatapp))
 - 📝 Ez Todo - Building a beautifully simple application, free todo list, task list and reminder app that will help keep your busy life organised everyday. ([More details](https://github.com/nguyensonhai/eztodo))
-- ☕ Ez Coffee - Building a cafe management web application with Python. ([More details](https://github.com/nguyensonhai/ezcoffee))
+- ☕ Ez Coffee - Building a cafe management application with Python. ([More details](https://github.com/nguyensonhai/ezcoffee))
 
 ---
