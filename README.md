@@ -1,4 +1,4 @@
-### Hi there 👋🏼,
+### Hi there 👋🏼
 I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 📱. ([CV](https://drive.google.com/file/d/1NUzlqL07E3JHV_PpdvgZ8A6lD4T-G1gO/))
 
 ---
