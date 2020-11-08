@@ -20,7 +20,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 <a href="https://github.com/topics/visual-studio-code"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&ensp;
 <a href="https://github.com/topics/terminal"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&ensp;
 <a href="https://developer.android.com/studio"><img height="25" src="https://developer.android.com/studio/images/studio-icon.svg?hl=de"></a>&ensp;
-<a href="https://github.com/topics/xcode"><img height="25" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png"></a><br>
+<a href="https://github.com/topics/xcode"><img height="25" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png"></a>&ensp;
 <a href="https://www.adobe.com/products/photoshop.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg"></a>&ensp;
 <a href="https://www.adobe.com/products/illustrator.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>&ensp;
 <a href="https://www.adobe.com/products/xd.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></a>&ensp;
