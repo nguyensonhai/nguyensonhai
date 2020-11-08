@@ -20,7 +20,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 <a href="https://github.com/topics/php"><img height="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a>&ensp;
 <a href="https://github.com/topics/mongodb"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a>&ensp;
 <a href="https://github.com/topics/mysql"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>&ensp;
-<a href="https://github.com/topics/heroku"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a>&ensp;<br>
+<a href="https://github.com/topics/heroku"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a><br>
 <a href="https://github.com/topics/visual-studio-code"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&ensp;
 <a href="https://github.com/topics/terminal"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&ensp;
 <a href="https://developer.android.com/studio"><img height="40" src="https://developer.android.com/studio/images/studio-icon.svg?hl=de"></a>&ensp;
@@ -31,7 +31,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 <a href="https://www.adobe.com/products/premiere.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"></a>&ensp;
 <a href="https://www.adobe.com/products/aftereffects.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>&ensp;
 <a href="https://www.adobe.com/products/animate.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/animate.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/audition.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/audition.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>
 </p>
 
 ---
