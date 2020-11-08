@@ -8,26 +8,26 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 **Languages and Tools:**
 
 <p align="center">
-<a href="https://github.com/topics/javascript"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&ensp;
-<a href="https://github.com/topics/nodejs"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>&ensp;
-<a href="https://github.com/topics/react-native"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></a>&ensp;
-<a href="https://github.com/topics/firebase"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>&ensp;
-<a href="https://github.com/topics/html"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&ensp;
-<a href="https://github.com/topics/css"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&ensp;
-<a href="https://github.com/topics/sass"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a>&ensp;
-<a href="https://github.com/topics/python"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&ensp;
-<a href="https://github.com/topics/heroku"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a>&ensp;
-<a href="https://github.com/topics/visual-studio-code"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&ensp;
-<a href="https://github.com/topics/terminal"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&ensp;
-<a href="https://developer.android.com/studio"><img height="20" src="https://developer.android.com/studio/images/studio-icon.svg?hl=de"></a>&ensp;
-<a href="https://github.com/topics/xcode"><img height="20" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png"></a>&ensp;
-<a href="https://www.adobe.com/products/photoshop.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/illustrator.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/xd.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/premiere.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/aftereffects.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/animate.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/animate.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/audition.html"><img height="20" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>
+<a href="https://github.com/topics/javascript"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&ensp;
+<a href="https://github.com/topics/nodejs"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>&ensp;
+<a href="https://github.com/topics/react-native"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></a>&ensp;
+<a href="https://github.com/topics/firebase"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>&ensp;
+<a href="https://github.com/topics/html"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&ensp;
+<a href="https://github.com/topics/css"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&ensp;
+<a href="https://github.com/topics/sass"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a>&ensp;
+<a href="https://github.com/topics/python"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&ensp;
+<a href="https://github.com/topics/heroku"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a>&ensp;
+<a href="https://github.com/topics/visual-studio-code"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&ensp;
+<a href="https://github.com/topics/terminal"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&ensp;
+<a href="https://developer.android.com/studio"><img height="25" src="https://developer.android.com/studio/images/studio-icon.svg?hl=de"></a>&ensp;
+<a href="https://github.com/topics/xcode"><img height="25" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png"></a><br>
+<a href="https://www.adobe.com/products/photoshop.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/illustrator.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/xd.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/premiere.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/aftereffects.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/animate.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/animate.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/audition.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>
 </p>
 
 ---
