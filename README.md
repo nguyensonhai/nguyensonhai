@@ -5,7 +5,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 ---
 
-**Languages and Tools:**
+**Languages and Tools**
 
 <p align="center">
 <a href="https://github.com/topics/javascript"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&ensp;
