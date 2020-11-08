@@ -52,11 +52,11 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 [![github](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyensonhai)
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@nguyensonhai)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
 [![bitbucket](https://img.shields.io/badge/-Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/nguyensonhai)
-[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai1009@gmail.com)
-[![face](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai1009)
-[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai1009)
+[![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai1009@gmail.com)
+[![face](https://img.shields.io/badge/-Facebook-0165E1?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai1009)
+[![insta](https://img.shields.io/badge/-Instagram-D82A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai1009)
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhai109)
 
 ---
