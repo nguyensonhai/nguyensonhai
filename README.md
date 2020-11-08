@@ -23,8 +23,11 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@guyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
+[![github](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyensonhai)
+[![bitbucket](https://img.shields.io/badge/-Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/nguyensonhai)
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai1009@gmail.com)
 [![face](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai1009)
 [![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai1009)
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhai109)
+
 ---
