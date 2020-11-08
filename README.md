@@ -3,7 +3,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 ---
 
-**Recent Projects:**
+**Recent Projects**
 
 - 💓 Ez Health - Building a healthy lifestyle mobile application ([more details](https://github.com/ezratech/ezhealth)).
 
@@ -19,7 +19,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 ---
 
-**Recent Projects:**
+**Contacts**
 
 Twitter: [@nguyensonhai109](https://twitter.com/nguyensonhai109)
 
