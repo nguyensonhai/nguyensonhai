@@ -23,7 +23,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 Twitter: [@nguyensonhai109](https://twitter.com/nguyensonhai109)
 
-LinkedIn: [nguyensonhai](https://linkedin.com/in/nguyensonhai)
+LinkedIn: [@nguyensonhai](https://linkedin.com/in/nguyensonhai)
 
 Email: [nguyensonhai1009@gmail.com](mailto:nguyensonhai1009@gmail.com)
 
