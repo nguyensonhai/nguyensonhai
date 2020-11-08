@@ -1,7 +1,7 @@
 ### Hi there 👋🏼,
 I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 👨‍💻 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyensonhai&repo=nguyensonhai)](https://github.com/nguyensonhai/nguyensonhai)
+[![nguyensonhai's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai)](https://github.com/nguyensonhai/nguyensonhai)
 ---
 
 **Recent Projects**
@@ -29,5 +29,3 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhai109)
 
 ---
-
-<!--[![GitHub watchers](https://img.shields.io/github/watchers/nguyensonhai1009/nguyensonhai1009?color=gree&label=Visits)](https://github.com/nguyensonhai1009)-->
