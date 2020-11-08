@@ -1,5 +1,5 @@
 ### Hi there 👋🏼,
-I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
+I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 👨‍💻 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
 
 ---
 
@@ -21,10 +21,12 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 **Contacts**
 
-Twitter: [@nguyensonhai109](https://twitter.com/nguyensonhai109)
-
-LinkedIn: [@nguyensonhai](https://linkedin.com/in/nguyensonhai)
-
-Email: [nguyensonhai1009@gmail.com](mailto:nguyensonhai1009@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai1009@gmail.com)
+[![face](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai1009)
+[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai1009)
+[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhai109)
 
 ---
+
+<!--[![GitHub watchers](https://img.shields.io/github/watchers/nguyensonhai1009/nguyensonhai1009?color=gree&label=Visits)](https://github.com/nguyensonhai1009)-->
