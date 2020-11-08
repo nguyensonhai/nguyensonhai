@@ -2,7 +2,7 @@
 I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 👨‍💻 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
 
 [![nguyensonhai's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai)](https://github.com/nguyensonhai/nguyensonhai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&layout=compact)](https://github.com/nguyensonhai/nguyensonhai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&layout=compact)](https://github.com//nguyensonhai)
 ---
 
 **Recent Projects**
