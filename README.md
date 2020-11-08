@@ -1,6 +1,8 @@
 ### Hi there 👋🏼,
 I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 👨‍💻 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
 
+[![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite)](https://github.com/nguyensonhai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=java,c%23&langs_count=10&layout=compact)](https://github.com/nguyensonhai)
+
 ---
 
 **Languages and Tools**
@@ -26,8 +28,6 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 <a href="https://www.adobe.com/products/aftereffects.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>&ensp;
 <a href="https://www.adobe.com/products/animate.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/animate.svg"></a>&ensp;
 <a href="https://www.adobe.com/products/audition.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>
-  
-[![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite)](https://github.com/nguyensonhai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=java,c%23&langs_count=10&layout=compact)](https://github.com/nguyensonhai)
 </p>
 
 ---
