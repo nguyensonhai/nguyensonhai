@@ -3,7 +3,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite)](https://github.com/nguyensonhai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=java,c%23&langs_count=10&layout=compact)](https://github.com/nguyensonhai)
 
-**Recent Projects**
+**Projects**
 
 - 💓 Ez Health - Building a healthy lifestyle mobile application ([more details](https://github.com/ezratech/ezhealth)).
 
