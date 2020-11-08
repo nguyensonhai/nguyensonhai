@@ -10,8 +10,6 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://github.com/topics/javascript)
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">](https://github.com/topics/react-native)
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">](https://github.com/topics/firebase)
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://github.com/topics/visual-studio-code)
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/topics/terminal)
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">](https://github.com/topics/java)
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://github.com/topics/nodejs)
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">](https://github.com/topics/html)
@@ -24,6 +22,15 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png">](https://github.com/topics/sql-server)
 [<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">](https://github.com/topics/heroku)
 
+[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://github.com/topics/visual-studio-code)
+[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://github.com/topics/terminal)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg">](https://www.adobe.com/products/photoshop.html)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg">](https://www.adobe.com/products/illustrator.html)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg">](https://www.adobe.com/products/premiere.html)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg">](https://www.adobe.com/products/aftereffects.html)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/animate.svg">](https://www.adobe.com/products/animate.html)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/audition.svg">](https://www.adobe.com/products/audition.html)
+[<img height="40" src="https://www.adobe.com/content/dam/cc/icons/xd.svg">](https://www.adobe.com/products/xd.html)
 ---
 
 **Projects**
