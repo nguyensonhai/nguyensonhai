@@ -29,8 +29,8 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 <a href="https://www.adobe.com/products/photoshop.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg"></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>
 <a href="https://www.adobe.com/products/xd.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></a>
-<a href="https://www.adobe.com/products/premiere.htmle"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"></a>
-<a href="https://www.adobe.com/products/aftereffects.htmle"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>
+<a href="https://www.adobe.com/products/premiere.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"></a>
+<a href="https://www.adobe.com/products/aftereffects.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>
 <a href="https://www.adobe.com/products/animate.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/animate.svg"></a>
 <a href="https://www.adobe.com/products/audition.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>
 </p>
