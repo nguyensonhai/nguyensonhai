@@ -1,6 +1,7 @@
 ### Hi there 👋🏼,
 I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 👨‍💻 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyensonhai&repo=nguyensonhai)](https://github.com/nguyensonhai/nguyensonhai)
 ---
 
 **Recent Projects**
