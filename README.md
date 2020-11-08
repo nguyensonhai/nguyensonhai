@@ -20,6 +20,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 ---
 
 **Contacts**
+
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@guyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai1009@gmail.com)
