@@ -1,43 +1,6 @@
 ### Hi there 👋🏼,
 I am a **Developer** having interest in Building Mobile Application (React Native/iOS/Android) 👨‍💻 📱 ([CV](https://drive.google.com/file/d/1V1X86yoOOWeVoPqs8-kF2Bg8GJOuRZcR)).
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
-🌆 Daytime    335 commits    ███████░░░░░░░░░░░░░░░░░░   29.78% 
-🌃 Evening    428 commits    █████████░░░░░░░░░░░░░░░░   38.04% 
-🌙 Night      201 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Tuesday      135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Wednesday    134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
-Thursday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-Friday       271 commits    ██████░░░░░░░░░░░░░░░░░░░   24.09% 
-Saturday     138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Sunday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
-<!--END_SECTION:waka-->
-
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite)](https://github.com/nguyensonhai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact)](https://github.com/nguyensonhai)
 
 ---
@@ -82,6 +45,11 @@ No Activity Tracked This Week
 - 📝 Ez Todo - Building a beautifully simple application, free todo list, task list and reminder app that will help keep your busy life organised everyday ([more details](https://github.com/nguyensonhai/eztodo)).
 
 - ☕ Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
