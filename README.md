@@ -62,7 +62,7 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-272-blue)
 
 **🐱 My Github Data** 
 
