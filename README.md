@@ -62,4 +62,77 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 2,095 Contributions in the Year 2020
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 24 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+🌆 Daytime    335 commits    ███████░░░░░░░░░░░░░░░░░░   29.78% 
+🌃 Evening    428 commits    █████████░░░░░░░░░░░░░░░░   38.04% 
+🌙 Night      201 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Tuesday      135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Wednesday    134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+Thursday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
+Friday       271 commits    ██████░░░░░░░░░░░░░░░░░░░   24.09% 
+Saturday     138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
+Sunday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   41.86% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/nguyensonhai/nguyensonhai/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
