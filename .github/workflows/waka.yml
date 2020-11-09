@@ -4,7 +4,7 @@ name: Waka Readme
 on:
 #   [push]
   schedule:
-    # Runs every hour
+    # Runs every day
     - cron: '00 17 * * *'
   
 jobs:
