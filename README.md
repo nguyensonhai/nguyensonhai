@@ -3,9 +3,6 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite)](https://github.com/nguyensonhai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact)](https://github.com/nguyensonhai)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 **Languages and Tools**
@@ -63,3 +60,6 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhai109)
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
