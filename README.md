@@ -46,6 +46,8 @@ I am a **Developer** having interest in Building Mobile Application (React Nativ
 
 - ☕ Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
 
+- 🏨 Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
+
 ---
 
 <!--START_SECTION:waka-->
