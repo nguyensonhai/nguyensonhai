@@ -1,6 +1,8 @@
 ### Hi there 👋🏼,
 I am a **Developer** having interest in Building Website (ReactJS) & Mobile Application (React Native/iOS/Android) 👨‍💻 📱. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time ([My Resume](https://drive.google.com/file/d/11QnEh64N10agME7_v2OMimdjtyVKnsXC/view?usp=sharing)).
 
+My website: [nguyensonhai.web.app](https://nguyensonhai.web.app/).
+
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nguyensonhai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true)](https://github.com/nguyensonhai)
 ---
@@ -37,6 +39,8 @@ I am a **Developer** having interest in Building Website (ReactJS) & Mobile Appl
 - 💓 Ez Health - Building a healthy lifestyle mobile application ([more details](https://github.com/ezratech/ezhealth)).
 
 - 📖 Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([more details](https://github.com/ezratech/ezkidel)).
+
+- 🚀 Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
 
 - 🌱 Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors ([more details](https://github.com/nguyensonhai/eztreecare)).
 
