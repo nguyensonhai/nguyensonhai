@@ -1,9 +1,9 @@
 ### Hi there 👋🏼,
 I am a **Developer** having interest in Building Website (ReactJS) & Mobile Application (React Native/iOS/Android) 👨‍💻 📱. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 
-My resume: [Google Drive](https://drive.google.com/file/d/11QnEh64N10agME7_v2OMimdjtyVKnsXC/view?usp=sharing).
+My resume: [Google Drive](https://drive.google.com/file/d/11QnEh64N10agME7_v2OMimdjtyVKnsXC/view?usp=sharing)
 
-My website: [nguyensonhai.dev](https://nguyensonhai.web.app).
+My website: [nguyensonhai.dev](https://nguyensonhai.web.app)
 
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nguyensonhai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true)](https://github.com/nguyensonhai)
