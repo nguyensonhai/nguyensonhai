@@ -58,7 +58,7 @@ My website: [nguyensonhai.dev](https://nguyensonhai.web.app)
 
 **Contacts**
 
-[![github](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyensonhai)
+[![gitlab](https://img.shields.io/badge/-GitLab-DB4128?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@nguyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
 [![bitbucket](https://img.shields.io/badge/-Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/nguyensonhai)
