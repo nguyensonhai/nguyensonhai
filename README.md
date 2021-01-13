@@ -38,7 +38,7 @@ My website: [nguyensonhai.github.io](https://nguyensonhai.github.io)
 
 **Projects**
 
-- 💓 Ez Health - Building a healthy lifestyle mobile application ([more details](https://github.com/ezratech/ezhealth)).
+- 💓 Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)). 
 
 - 📖 Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)). 
 
