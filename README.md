@@ -5,6 +5,8 @@ My resume: [Google Drive](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQ
 
 My website: [nguyensonhai.dev](https://nguyensonhai.dev/)
 
+Contact me: admin@nguyensonhai.dev
+
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nguyensonhai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true)](https://github.com/nguyensonhai)
 ---
