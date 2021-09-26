@@ -3,7 +3,7 @@ I am a **Developer** having interest in Building Website (ReactJS) & Mobile Appl
 
 My resume: [Google Drive](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
 
-My website: [nguyensonhai.dev](https://nguyensonhai.dev/)
+My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
 Contact me: admin@nguyensonhai.dev
 
