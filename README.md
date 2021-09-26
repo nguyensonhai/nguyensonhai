@@ -46,7 +46,7 @@ Contact me: admin@nguyensonhai.dev
 
 ---
 
-**Projects**
+**Startup Projects**
 
 - 💓 Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)). 
 
