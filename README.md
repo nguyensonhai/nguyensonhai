@@ -42,7 +42,7 @@ Contact me: admin@nguyensonhai.dev
 
 **Partner Projects**
 
-- 💓 Loya One - Super Point to exchange apps and use points of all membership programs with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098)). 
+- 💜 Loya One - Super Point to exchange apps and use points of all membership programs with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098)). 
 
 ---
 
