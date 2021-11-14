@@ -3,6 +3,8 @@ I am a **Developer** having interest in Building Website (ReactJS) & Mobile Appl
 
 My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
+My resume: [Google Drive](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
+
 Contact me: contact@nguyensonhai.dev
 
 [![Nguyễn Sơn Hải's github stats](https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nguyensonhai)
