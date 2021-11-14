@@ -1,5 +1,5 @@
 ### Hi there 👋🏼,
-I am a **Developer** having interest in Building Website (ReactJS) & Mobile Application (React Native/iOS/Android) 👨‍💻 📱. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
+I am a **Developer** having interest in Building Website (ReactJS) & Mobile Application (React Native) 👨‍💻 📱. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 
 My resume: [Google Drive](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
 
