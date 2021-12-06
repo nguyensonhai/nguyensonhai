@@ -54,13 +54,13 @@ Contact me: contact@nguyensonhai.dev
 
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezexplore.png?alt=media&token=4a64aa9a-da8a-49f1-837a-f7c7bf005e7a"> Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
 
-- 🌱 Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors ([more details](https://github.com/nguyensonhai/eztreecare)).
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-treecare.png?alt=media&token=7f04aa3d-bab2-45ff-8169-d3b933e838ba"> Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors ([more details](https://github.com/nguyensonhai/eztreecare)).
 
-- 🗨️ Ez Chat App - Building a real-time chat application using JavaScript (Single-page application) ([more details](https://github.com/nguyensonhai/ezchatapp)).
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-chat-app.png?alt=media&token=b3afd286-4d13-4a2d-8f4e-838035322b3f"> Ez Chat App - Building a real-time chat application using JavaScript (Single-page application) ([more details](https://github.com/nguyensonhai/ezchatapp)).
 
-- 📝 Ez Todo - Building a beautifully simple application, free todo list, task list and reminder app that will help keep your busy life organised everyday ([more details](https://github.com/nguyensonhai/eztodo)).
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-todo.png?alt=media&token=d922bea0-4637-44fd-88ca-ffad3551adf1"> Ez Todo - Building a beautifully simple application, free todo list, task list and reminder app that will help keep your busy life organised everyday ([more details](https://github.com/nguyensonhai/eztodo)).
 
-- ☕ Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-coffee.png?alt=media&token=a7b0a48b-b38e-407d-8d6b-30b80f73f227"> Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
 
 - 🏨 Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
 
