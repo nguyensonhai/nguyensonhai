@@ -41,8 +41,8 @@ Contact me: contact@nguyensonhai.dev
 
 **Partner Projects**
 
-- 💜 Loya One - Super Point to exchange apps and use points of all membership programs with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098)). 
-- 💜 Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=vn.tyre) & [Apple App Store](https://apps.apple.com/us/app/smart-road-4-0/id1588861167)). 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one.png?alt=media&token=49700f69-113a-424c-94af-bc5006c2efe0"> Loya One - Super Point to exchange apps and use points of all membership programs with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098)). 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fsmart-road.png?alt=media&token=cebb14aa-1296-4706-8651-0652e07ef43b"> Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=vn.tyre) & [Apple App Store](https://apps.apple.com/us/app/smart-road-4-0/id1588861167)). 
 
 ---
 
