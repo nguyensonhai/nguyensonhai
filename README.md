@@ -48,11 +48,11 @@ Contact me: contact@nguyensonhai.dev
 
 **Startup Projects**
 
-- 💓 Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)). 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezhealth.png?alt=media&token=9c4e20f6-e27a-40f6-8d78-de396525481a"> Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)). 
 
-- 📖 Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)). 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezkidel.png?alt=media&token=c3bdccda-b2e3-4dca-be29-69089bd98f18"> Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)). 
 
-- 🚀 Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezexplore.png?alt=media&token=4a64aa9a-da8a-49f1-837a-f7c7bf005e7a"> Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
 
 - 🌱 Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors ([more details](https://github.com/nguyensonhai/eztreecare)).
 
