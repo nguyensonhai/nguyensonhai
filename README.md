@@ -72,7 +72,6 @@ Contact me: contact@nguyensonhai.dev
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@nguyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
-[![bitbucket](https://img.shields.io/badge/-Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/nguyensonhai)
 [![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai.dev@gmail.com)
 [![face](https://img.shields.io/badge/-Facebook-0165E1?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai.dev)
 [![insta](https://img.shields.io/badge/-Instagram-D82A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai.dev)
