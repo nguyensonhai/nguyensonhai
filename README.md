@@ -63,7 +63,7 @@ Contact me: contact@nguyensonhai.dev
 
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-coffee.png?alt=media&token=a7b0a48b-b38e-407d-8d6b-30b80f73f227"> Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
 
-- 🏨 Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
+- 🏨  Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
 
 ---
 
