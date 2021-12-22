@@ -88,5 +88,3 @@ Contact me: contact@nguyensonhai.dev
 [![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/XttK2Jxct068)
   
 </details>
-
----
