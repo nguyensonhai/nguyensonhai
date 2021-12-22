@@ -67,7 +67,7 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 </details>
 
 <details>
-<summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary><br/>
+<summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
  
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezhealth.png?alt=media&token=9c4e20f6-e27a-40f6-8d78-de396525481a"> Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)).
 
