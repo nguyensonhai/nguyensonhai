@@ -3,17 +3,17 @@
 I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 <img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="300" height="300" />
 
-- 📓 &nbsp; I’m currently working with React Native, React, Typescript, Javascript, RESTful API etc.
+📓 &nbsp; I’m currently working with React Native, React, Typescript, Javascript, RESTful API etc.
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nguyensonhai).
+👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nguyensonhai).
 
-- 💬 &nbsp; Ask me about anything I am happy to help.
+💬 &nbsp; Ask me about anything I am happy to help.
 
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
+📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
 
-- 💻 &nbsp; My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
+💻 &nbsp; My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
-- 📫 &nbsp; How to reach me: contact@nguyensonhai.dev
+📫 &nbsp; How to reach me: contact@nguyensonhai.dev
 <br/>
 
 ---
