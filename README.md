@@ -1,11 +1,17 @@
 ### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,
-I am a **Developer** having interest in Building Website (ReactJS) & Mobile Application (React Native) 💻 📱. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
+I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 
-My resume: [Google Drive](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
+- 📓 &nbsp; I’m currently working with React Native, React, Typescript, Javascript, RESTful API etc.
 
-My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nguyensonhai).
 
-Contact me: contact@nguyensonhai.dev
+- 💬 &nbsp; Ask me about anything I am happy to help.
+
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
+
+- 💻 &nbsp; My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
+
+- 📫 &nbsp; How to reach me: contact@nguyensonhai.dev
 
 ---
 
