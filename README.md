@@ -58,8 +58,8 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 </details>
 
 <details>
-<summary><b>🚀&nbsp;&nbsp;Partner Projects</b></summary>
-
+<summary><b>🚀&nbsp;&nbsp;Partner Projects</b></summary><br/>
+  
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one.png?alt=media&token=49700f69-113a-424c-94af-bc5006c2efe0"> Loya One - E-commerce app to exchange and use points of all membership with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098))
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one-biz.png?alt=media&token=41ba0eee-38fc-4e5c-9dbc-be00e28e6912"> Loya One Biz - Management application to redeem and use points of all members with many attractive vouchers for partners. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.loyalonebiz) & [Apple App Store](https://apps.apple.com/us/app/loya-one-biz/id1508952242))
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fsmart-road.png?alt=media&token=cebb14aa-1296-4706-8651-0652e07ef43b"> Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=vn.tyre) & [Apple App Store](https://apps.apple.com/us/app/smart-road-4-0/id1588861167))
@@ -67,8 +67,8 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 </details>
 
 <details>
-<summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
-
+<summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary><br/>
+ 
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezhealth.png?alt=media&token=9c4e20f6-e27a-40f6-8d78-de396525481a"> Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)).
 
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezkidel.png?alt=media&token=c3bdccda-b2e3-4dca-be29-69089bd98f18"> Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)).
