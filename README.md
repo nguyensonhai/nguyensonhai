@@ -7,8 +7,12 @@ My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
 Contact me: contact@nguyensonhai.dev
 
-<a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a><a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true" /></a>
 ---
+
+<details>
+<summary><b>🚀&nbsp;&nbsp;GitHub &nbsp;stats</b></summary>
+<a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a><a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true" /></a>
+</details>
 
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
