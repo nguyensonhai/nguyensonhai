@@ -1,26 +1,31 @@
 ## Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my design problems.
+I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my design problems. My technology stack involves Typescript, Javascript, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
 <img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" />
 
-- 📱&nbsp;&nbsp;I’m currently working with React Native, Typescript, RESTful API etc.
+- 📱&nbsp;&nbsp;I’m currently working with React Native, Typescript, RESTful API, etc.
 
-- 💬&nbsp;&nbsp;Ask me about anything I am happy to help.
+- 💻&nbsp;&nbsp;I love exploring new tech stack and building cool stuffs.
+
+- 💬&nbsp;&nbsp;Brainstorm with me over tech, design, career, and music.
 
 - 👨🏻‍💻&nbsp;&nbsp;Most of my projects are available on [GitHub](https://github.com/nguyensonhai).
 
-- 📝&nbsp;&nbsp;Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view)
+- 📝&nbsp;&nbsp;Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view).
 
-- 💻&nbsp;&nbsp;My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
+- 🌎&nbsp;&nbsp;My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
 - 📧&nbsp;&nbsp;Reach me via email: contact@nguyensonhai.dev
+
+- ⚡️&nbsp;&nbsp;Fun fact:  I'm a huge fan of [Kygo](https://www.kygomusic.com).
+
 <br/>
 
 ---
 
 <details>
-<summary><b>⚡ Github Stats</b></summary>
+<summary><b>⭐&nbsp;&nbsp;Github Stats</b></summary>
 <br/>
   
 | <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a> | <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true" /></a> |
@@ -89,7 +94,7 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 </details>
 
 <details>
-<summary><b>🔗&nbsp;&nbsp;Contacts</b></summary>
+<summary><b>🔗&nbsp;&nbsp;Connect with me on</b></summary>
 <br/>
 
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
