@@ -7,12 +7,9 @@ My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
 Contact me: contact@nguyensonhai.dev
 
----
-
-<details>
-<summary><b>🚀&nbsp;&nbsp;GitHub &nbsp;stats</b></summary>
 <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a><a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true" /></a>
-</details>
+
+---
 
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -45,7 +42,7 @@ Contact me: contact@nguyensonhai.dev
 </details>
 
 <details>
-<summary><b>📱&nbsp;&nbsp;Partner Projects</b></summary>
+<summary><b>🚀&nbsp;&nbsp;Partner Projects</b></summary>
 
   
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one.png?alt=media&token=49700f69-113a-424c-94af-bc5006c2efe0"> Loya One - E-commerce app to exchange and use points of all membership with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098))
