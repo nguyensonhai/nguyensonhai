@@ -1,6 +1,7 @@
 ### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,
 I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
-  <img  align="right" alt="GIF" src="./assets/images/coding.gif" width="350" height="350" />
+
+  <img  align="right" alt="GIF" src="./assets/images/coding.gif" width="320" height="320" />
 
 - 📓 &nbsp; I’m currently working with React Native, React, Typescript, Javascript, RESTful API etc.
 
