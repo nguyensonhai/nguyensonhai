@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,
+### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 <img  align="right" alt="GIF" src="./assets/images/coding.gif" width="300" height="300" />
 
