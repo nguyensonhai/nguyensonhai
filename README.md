@@ -1,6 +1,7 @@
 ### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do.  I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
-<img  align="right" alt="GIF" src="./assets/images/coding.gif" width="300" height="300" />
+
+I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
+<img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="300" height="300" />
 
 - 📓 &nbsp; I’m currently working with React Native, React, Typescript, Javascript, RESTful API etc.
 
@@ -13,7 +14,7 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 - 💻 &nbsp; My website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
 
 - 📫 &nbsp; How to reach me: contact@nguyensonhai.dev
-<br/>
+  <br/>
 
 ---
 
@@ -59,22 +60,18 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 <details>
 <summary><b>🚀&nbsp;&nbsp;Partner Projects</b></summary>
 
-  
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one.png?alt=media&token=49700f69-113a-424c-94af-bc5006c2efe0"> Loya One - E-commerce app to exchange and use points of all membership with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/us/app/loya-one/id1495752098))
-  
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one-biz.png?alt=media&token=41ba0eee-38fc-4e5c-9dbc-be00e28e6912"> Loya One Biz - Management application to redeem and use points of all members with many attractive vouchers for partners. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.loyalonebiz) & [Apple App Store](https://apps.apple.com/us/app/loya-one-biz/id1508952242))
-  
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fsmart-road.png?alt=media&token=cebb14aa-1296-4706-8651-0652e07ef43b"> Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=vn.tyre) & [Apple App Store](https://apps.apple.com/us/app/smart-road-4-0/id1588861167)) 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fsmart-road.png?alt=media&token=cebb14aa-1296-4706-8651-0652e07ef43b"> Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=vn.tyre) & [Apple App Store](https://apps.apple.com/us/app/smart-road-4-0/id1588861167))
 
 </details>
 
 <details>
 <summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezhealth.png?alt=media&token=9c4e20f6-e27a-40f6-8d78-de396525481a"> Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)).
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezhealth.png?alt=media&token=9c4e20f6-e27a-40f6-8d78-de396525481a"> Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)). 
-
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezkidel.png?alt=media&token=c3bdccda-b2e3-4dca-be29-69089bd98f18"> Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)). 
+- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezkidel.png?alt=media&token=c3bdccda-b2e3-4dca-be29-69089bd98f18"> Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)).
 
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezexplore.png?alt=media&token=4a64aa9a-da8a-49f1-837a-f7c7bf005e7a"> Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
 
@@ -86,7 +83,7 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 
 - <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-coffee.png?alt=media&token=a7b0a48b-b38e-407d-8d6b-30b80f73f227"> Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
 
-- 🏨  Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
+- 🏨 Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
 
 </details>
 
@@ -102,5 +99,5 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 [![insta](https://img.shields.io/badge/-Instagram-D82A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai.dev)
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhaidev)
 [![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/XttK2Jxct068)
-  
+
 </details>
