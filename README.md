@@ -2,7 +2,7 @@
 
 I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my design problems.
 
-<img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="270" height="270" />
+<img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" />
 
 - 📱&nbsp;&nbsp;I’m currently working with React Native, Typescript, RESTful API etc.
 
@@ -16,6 +16,7 @@ I am a **Developer** having interest in Building Website & Mobile Application. I
 
 - 📧&nbsp;&nbsp;Reach me via email: contact@nguyensonhai.dev
 
+<br/>
 <br/>
 
 ---
