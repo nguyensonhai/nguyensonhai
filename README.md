@@ -14,7 +14,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 
 - 📝&nbsp;&nbsp;Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view).
 
-- 🌎&nbsp;&nbsp;Visit my website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev/)
+- 🌎&nbsp;&nbsp;Visit my website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev)
 
 - 📧&nbsp;&nbsp;Reach me via email: contact@nguyensonhai.dev
 
