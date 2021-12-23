@@ -4,7 +4,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 
 <a href="https://www.nguyensonhai.dev"><img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" /></a>
 
-- 📱&nbsp;&nbsp;I’m currently working with React Native, Typescript, RESTful API, etc.
+- 📱&nbsp;&nbsp;I'm currently working with React Native, Typescript, RESTful API, etc.
 
 - 💻&nbsp;&nbsp;I love exploring new tech stack and building cool stuffs.
 
