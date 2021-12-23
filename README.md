@@ -24,6 +24,8 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 
 ---
 
+<br/>
+
 <details>
 <summary><b>⭐&nbsp;&nbsp;Github Stats</b></summary>
 <br/>
