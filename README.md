@@ -1,6 +1,6 @@
 ## Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my design problems. My technology stack involves Typescript, Javascript, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+I'm a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my design problems. My technology stack involves Typescript, Javascript, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
 <a href="https://www.nguyensonhai.dev"><img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" /></a>
 
