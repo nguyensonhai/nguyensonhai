@@ -20,11 +20,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 
 - ⚡️&nbsp;&nbsp;Fun fact: I'm a huge fan of [Kygo](https://www.kygomusic.com).
 
-<br/>
-
 ---
-
-<br/>
 
 <details>
 <summary><b>⭐&nbsp;&nbsp;Github Stats</b></summary>
