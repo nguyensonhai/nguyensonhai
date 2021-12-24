@@ -109,7 +109,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 </details>
 <br/>
 
-<img align="right" alt="GIF" height="170px" src="./assets/images/spotify.png" />
+<img align="right" alt="GIF" width="170px" src="./assets/images/spotify.png" />
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&cover_image=true&theme=novatorem&bar_color=292e34&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true)
 
