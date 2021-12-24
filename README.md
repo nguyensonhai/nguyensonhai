@@ -1,3 +1,5 @@
+![alt text](./assets/images/top.png)
+
 ### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>,
 
 I'm a **Developer** having interest in Building Website & Mobile Application. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my design problems. My technology stack involves Typescript, Javascript, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
@@ -113,3 +115,5 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 [![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/XttK2Jxct068)
 
 </details>
+
+![alt text](./assets/images/bottom.png)
