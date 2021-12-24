@@ -94,14 +94,6 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 </details>
 
 <details>
-<summary><b>️🎵&nbsp;&nbsp;Now playing</b></summary>
-<br/>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true)
-
-</details>
-
-<details>
 <summary><b>🔗&nbsp;&nbsp;Connect with me on</b></summary>
 <br/>
 
@@ -115,5 +107,10 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 [![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/XttK2Jxct068)
 
 </details>
+<br/>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&cover_image=true&theme=novatorem&bar_color=292e34&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true)
 
 ![alt text](./assets/images/bottom.png)
