@@ -20,7 +20,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 
 - 📧&nbsp;&nbsp;Reach me via email: contact@nguyensonhai.dev
 
-- ⚡️&nbsp;&nbsp;Fun fact: I'm a huge fan of [Kygo](https://www.kygomusic.com).
+- ⚡️&nbsp;&nbsp;Fun fact: I'm a huge fan of [Avicii](https://avicii.com) & [Kygo](https://www.kygomusic.com).
 
 ---
 
