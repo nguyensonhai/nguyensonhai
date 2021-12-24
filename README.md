@@ -94,7 +94,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 </details>
 
 <details>
-<summary><b>🔗&nbsp;&nbsp;Connects</b></summary>
+<summary><b>🔗&nbsp;&nbsp;Connect with me</b></summary>
 <br/>
 
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
@@ -110,7 +110,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 <br/>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true"><img align="right" alt="GIF" width="170px" src="./assets/images/spotify.png" /></a>
-  
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&cover_image=true&theme=novatorem&bar_color=292e34&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true)
 
 ![alt text](./assets/images/bottom.png)
