@@ -94,7 +94,7 @@ I'm a **Developer** having interest in Building Website & Mobile Application. I 
 </details>
 
 <details>
-<summary><b>🔗&nbsp;&nbsp;Connect with me on</b></summary>
+<summary><b>🔗&nbsp;&nbsp;Connects</b></summary>
 <br/>
 
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
