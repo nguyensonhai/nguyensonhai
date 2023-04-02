@@ -14,8 +14,6 @@ As a **Creative Developer**, I am passionate about building websites and mobile 
 
 - 👨🏻‍💻&nbsp;&nbsp;Most of my projects are available on [GitHub](https://github.com/nguyensonhai).
 
-- 📝&nbsp;&nbsp;Checkout my [Resume](https://drive.google.com/file/d/11USPVdgkUFk9BIzzLp7oQZtpgHKeZrH6/view).
-
 - 🌎&nbsp;&nbsp;Visit my website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev)
 
 - 📧&nbsp;&nbsp;Reach me via email: contact@nguyensonhai.dev
