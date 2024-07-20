@@ -109,8 +109,4 @@ As a **Creative Developer**, I have a strong passion for creating websites and m
 </details>
 <br/>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true"><img align="right" alt="GIF" width="170px" src="./assets/images/spotify.png" /></a>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=fafafa&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=o5kxv40xewxo0ezn9kk94ionf&redirect=true)
-
 ![alt text](./assets/images/bottom.png)
