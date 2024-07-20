@@ -103,7 +103,7 @@ As a **Creative Developer**, I have a strong passion for creating websites and m
 [![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nguyensonhai.dev@gmail.com)
 [![face](https://img.shields.io/badge/-Facebook-0165E1?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai.dev)
 [![insta](https://img.shields.io/badge/-Instagram-D82A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai.dev)
-[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nguyensonhaidev)
+[![x](https://img.shields.io/badge/-X-D0D0CF?style=for-the-badge&logo=x&logoColor=black)](https://x.com/nguyensonhaidev)
 [![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/XttK2Jxct068)
 
 </details>
