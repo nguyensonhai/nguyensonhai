@@ -2,7 +2,13 @@
 
 ### Hi there <a href="https://www.nguyensonhai.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></a>,
 
-As a **Creative Developer**, I have a strong passion for creating websites and mobile applications. I find joy in crafting elegantly simple solutions through design and coding, and I am deeply committed to perfecting my craft. When faced with design challenges, I approach them with a calm confidence and an innate sense of curiosity, constantly striving to enhance my skills. My expertise includes a variety of technologies such as Typescript, Javascript, React, Next.js, Three.js. Apart from programming, I have a profound love for music.
+As a **Creative Developer**, I’m deeply passionate about creating intuitive websites and mobile applications. I take pride in crafting elegant, simple solutions through thoughtful design and code, always striving to refine my craft.
+
+I approach design challenges with a sense of calm confidence and a curious mindset, continuously pushing myself to grow and master new skills.
+
+My expertise spans a range of technologies, including Typescript, Javascript, React, Next.js, and Three.js.
+
+Beyond coding, I have a profound appreciation for music, which fuels my creativity.
 
 <a href="https://www.nguyensonhai.dev"><img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" /></a>
 
