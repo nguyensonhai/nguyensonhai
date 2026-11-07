@@ -6,17 +6,21 @@ As a **Creative Developer**, I’m deeply passionate about creating intuitive we
 
 I approach design challenges with a sense of calm confidence and a curious mindset, continuously pushing myself to grow and master new skills.
 
-My expertise spans a range of technologies, including Typescript, Javascript, React, Next.js, and Three.js.
+My expertise spans a range of technologies, including TypeScript, JavaScript, React, Next.js, React Native and Three.js — and these days I build **AI-first**, pairing with [Claude Code](https://claude.com/claude-code) to ship faster without cutting corners.
 
 Beyond coding, I have a profound appreciation for music, which fuels my creativity.
 
 <a href="https://www.nguyensonhai.dev"><img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" /></a>
 
-- 📱&nbsp;&nbsp;I'm currently working with React Native, Flutter, RESTful API, etc.
+- 🌊&nbsp;&nbsp;I'm currently building [**Montide**](https://montide.app) — fast, private developer tools that run entirely in your browser.
+
+- 🤖&nbsp;&nbsp;I work AI-first: Claude Code, agentic workflows, MCP and prompt-driven development are part of my daily toolkit.
+
+- 📱&nbsp;&nbsp;I'm also working with Next.js, React Native, Flutter, RESTful API, etc.
 
 - 💻&nbsp;&nbsp;I love exploring new tech stack and building cool stuffs.
 
-- 💬&nbsp;&nbsp;Brainstorm with me over tech, design, career, and music.
+- 💬&nbsp;&nbsp;Brainstorm with me over tech, AI, design, career, and music.
 
 - 👨🏻‍💻&nbsp;&nbsp;Most of my projects are available on [GitHub](https://github.com/nguyensonhai).
 
@@ -28,11 +32,57 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 ---
 
+### 🌊&nbsp;&nbsp;Featured: [Montide](https://montide.app)
+
+> **Fast, private developer tools that run entirely in the browser.** No sign-up, no uploads — your data never leaves your device.
+
+**74 tools across 9 categories**, all in one clean workspace with ⌘K search, light/dark mode and English / Vietnamese:
+
+| Category | Highlights |
+| --- | --- |
+| 🎲 Generators | QR code, Wi-Fi QR, UUID v4/v7, ULID, password, BIP39, Lorem ipsum |
+| 🔐 Security | Hash, HMAC, bcrypt, AES-256-GCM, TOTP/2FA, RSA key pair, JWT decoder |
+| 🔄 Converters | Base64, URL, timestamp, JSON ↔ YAML / CSV / XML / TOML, number bases, color |
+| 🧹 Formatters | JSON formatter & diff, text diff, SQL, XML, YAML, Markdown preview |
+| ✍️ Text | Text statistics, slugify, HTML entities, NATO alphabet, ASCII art |
+| 🌐 Web & Dev | URL parser, regex tester, HTTP status codes, MIME types, user-agent parser |
+| 🖥️ System & Network | Crontab, `docker run` → Compose, chmod, IPv4 subnet, IPv6 ULA |
+| 🧮 Utilities | Calculator, percentage, temperature, stopwatch, phone & IBAN validator |
+| 🖼️ Images | Image compressor with before/after compare, batch converter, image ↔ Base64 |
+
+Built with **Next.js 16** · **React 19** · **TypeScript** · **MUI 9** — designed and developed together with **Claude Code**.
+
+<p>
+<a href="https://montide.app"><img src="https://img.shields.io/badge/Try_it-montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Montide" /></a>
+</p>
+
+---
+
+<details>
+<summary><b>🤖&nbsp;&nbsp;AI-Powered Workflow</b></summary>
+<br/>
+
+I treat AI as a teammate, not a shortcut. My day-to-day setup:
+
+- **[Claude Code](https://claude.com/claude-code)** — my main coding partner in the terminal and desktop app: planning features, refactoring, writing tests, reviewing diffs and shipping whole features end-to-end.
+- **Agentic workflows** — sub-agents, skills and hooks to automate repetitive tasks such as code review, i18n, SEO and release notes.
+- **MCP (Model Context Protocol)** — connecting AI to browsers, docs, design files and project tools so it works with real context.
+- **Prompt & context engineering** — clear specs, `CLAUDE.md` / `AGENTS.md` project rules and small, verifiable steps for reliable results.
+- **AI in products** — integrating LLM APIs (e.g. Claude API) into web and mobile apps.
+
+<p align="center">
+<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" /></a>
+</p>
+
+</details>
+
 <details>
 <summary><b>⭐&nbsp;&nbsp;Github Stats</b></summary>
 <br/>
   
-| <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonhai&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a> | <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonhai&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyensonhai&theme=default" alt="Hai's github stats" /></a> | <a href="https://github.com/nguyensonhai"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyensonhai&theme=default" alt="Hai's top languages" /></a> |
 | ------------- | ------------- |
   
 </details>
@@ -45,55 +95,66 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 <a href="https://github.com/topics/javascript"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&ensp;
 <a href="https://github.com/topics/typescript"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>&ensp;
 <a href="https://github.com/topics/nodejs"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>&ensp;
+<a href="https://react.dev"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&ensp;
+<a href="https://nextjs.org"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>&ensp;
+<a href="https://mui.com"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"></a>&ensp;
+<a href="https://threejs.org"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"></a>&ensp;
 <a href="https://github.com/topics/react-native"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></a>&ensp;
+<a href="https://flutter.dev"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></a>&ensp;
 <a href="https://github.com/topics/redux"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></a>&ensp;
 <a href="https://github.com/topics/firebase"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>&ensp;
 <a href="https://github.com/topics/html"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&ensp;
 <a href="https://github.com/topics/css"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&ensp;
 <a href="https://github.com/topics/sass"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a>&ensp;
 <a href="https://github.com/topics/python"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&ensp;
-<a href="https://github.com/topics/heroku"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></a>&ensp;
+<a href="https://vercel.com"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"></a>&ensp;
 <a href="https://github.com/topics/visual-studio-code"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&ensp;
 <a href="https://github.com/topics/terminal"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&ensp;
 <a href="https://developer.android.com/studio"><img height="25" src="https://developer.android.com/studio/images/studio-icon.svg?hl=de"></a>&ensp;
 <a href="https://github.com/topics/xcode"><img height="25" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png"></a>&ensp;
-<a href="https://www.adobe.com/products/photoshop.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/illustrator.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/xd.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/premiere.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/aftereffects.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/animate.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/animate.svg"></a>&ensp;
-<a href="https://www.adobe.com/products/audition.html"><img height="25" src="https://www.adobe.com/content/dam/cc/icons/audition.svg"></a>
+<a href="https://www.figma.com"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/photoshop.html"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/illustrator.html"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/premiere.html"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"></a>&ensp;
+<a href="https://www.adobe.com/products/aftereffects.html"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"></a>
+</p>
+
+<p align="center"><b>AI tools:</b>&ensp;
+<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /></a>&ensp;
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>&ensp;
+<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /></a>
 </p>
 </details>
 
 <details>
 <summary><b>🚀&nbsp;&nbsp;Partner Projects</b></summary><br/>
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fpharmacity.png?alt=media&token=89b80ca8-db93-4105-a75c-5b22e32edb7a"> Pharmacity - A retail medicine online application developed by Pharmacity company. It allows users to search for products, find the nearest store, and shop online. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.pharmacity_extracare) & [Apple App Store](https://apps.apple.com/app/id1414835869))
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Flux-one.png?alt=media&token=a9447337-7d61-4de4-8ff0-acb56f242c7e"> Luxury One - Shopping app that offers premium products from the world's top luxury brands. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=luxury.one.user.mobile) & [Apple App Store](https://apps.apple.com/app/luxury-one/id1622359911))
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one.png?alt=media&token=49700f69-113a-424c-94af-bc5006c2efe0"> Luxury One - E-commerce app to exchange and use points of all membership with many attractive offers. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=loyal.one.user.mobile) & [Apple App Store](https://apps.apple.com/app/loya-one/id1495752098))
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Floya-one-biz.png?alt=media&token=41ba0eee-38fc-4e5c-9dbc-be00e28e6912"> Loya One Biz - Management application to redeem and use points of all members with many attractive vouchers for partners. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.loyalonebiz) & [Apple App Store](https://apps.apple.com/app/loya-one-biz/id1508952242))
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fsmart-road.png?alt=media&token=cebb14aa-1296-4706-8651-0652e07ef43b"> Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=vn.tyre) & [Apple App Store](https://apps.apple.com/app/smart-road-4-0/id1588861167))
+- <img height="15" src="https://play-lh.googleusercontent.com/eWl7JVUV6WxaXMP376AIG3Qd-fe0KUM_5ikV3QinUxC9-4V5L03czose8xA0DTxMQ8-CrZBDrk8Rcf-qqdI-=w64-h64"> Pharmacity - A retail medicine online application developed by Pharmacity company. It allows users to search for products, find the nearest store, and shop online. (Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.pharmacity_extracare) & [Apple App Store](https://apps.apple.com/app/id1414835869))
+- 💎 Luxury One - Shopping app that offers premium products from the world's top luxury brands. *(no longer available on stores)*
+- 🎁 Loya One - E-commerce app to exchange and use points of all membership with many attractive offers. *(no longer available on stores)*
+- 🏪 Loya One Biz - Management application to redeem and use points of all members with many attractive vouchers for partners. *(no longer available on stores)*
+- 🚗 Smart Road - The first e-commerce technology platform in the field of vehicle parts distribution and vehicle-related support services in Vietnam on mobile platforms. *(no longer available on stores)*
 
 </details>
 
 <details>
 <summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
  
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezhealth.png?alt=media&token=9c4e20f6-e27a-40f6-8d78-de396525481a"> Ez Health - Building a healthy lifestyle mobile application ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth) or [See details](https://github.com/ezratech/ezhealth)).
+- 🌊 [Montide](https://montide.app) - 74 fast, private developer tools that run entirely in the browser — generators, security, converters, formatters, images and more. Built AI-first with Claude Code.
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezkidel.png?alt=media&token=c3bdccda-b2e3-4dca-be29-69089bd98f18"> Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities ([Get it on Google Play](https://play.google.com/store/apps/details?id=com.ezratech.ezkidel)).
+- 💪 Ez Health - Building a healthy lifestyle mobile application ([See details](https://github.com/ezratech/ezhealth)).
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fezexplore.png?alt=media&token=4a64aa9a-da8a-49f1-837a-f7c7bf005e7a"> Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
+- 📚 Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities. *(No longer available on Google Play.)*
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-treecare.png?alt=media&token=7f04aa3d-bab2-45ff-8169-d3b933e838ba"> Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors ([more details](https://github.com/nguyensonhai/eztreecare)).
+- 🌍 Ez Explore - Building a website to explore our world and more. ([more details](https://ezexplore.web.app)).
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-chat-app.png?alt=media&token=b3afd286-4d13-4a2d-8f4e-838035322b3f"> Ez Chat App - Building a real-time chat application using JavaScript (Single-page application) ([more details](https://github.com/nguyensonhai/ezchatapp)).
+- 🪴 Ez Tree Care - Building the smart pots system using IOT technology to control and supervise the soil moisture. Created server and mobile application to control devices and sensors ([more details](https://github.com/nguyensonhai/eztreecare)).
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-todo.png?alt=media&token=d922bea0-4637-44fd-88ca-ffad3551adf1"> Ez Todo - Building a beautifully simple application, free todo list, task list and reminder app that will help keep your busy life organised everyday ([more details](https://github.com/nguyensonhai/eztodo)).
+- 💬 Ez Chat App - Building a real-time chat application using JavaScript (Single-page application) ([more details](https://github.com/nguyensonhai/ezchatapp)).
 
-- <img height="15" src="https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/app-icons%2Fez-coffee.png?alt=media&token=a7b0a48b-b38e-407d-8d6b-30b80f73f227"> Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
+- ✅ Ez Todo - Building a beautifully simple application, free todo list, task list and reminder app that will help keep your busy life organised everyday ([more details](https://github.com/nguyensonhai/eztodo)).
+
+- ☕ Ez Coffee - Building a coffee shop management application ([more details](https://github.com/nguyensonhai/ezcoffee)).
 
 - 🏨 Ez Booking - Building a booking application ([more details](https://github.com/nguyensonhai/ezbooking)).
 
@@ -103,6 +164,8 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 <summary><b>🔗&nbsp;&nbsp;Connect with me</b></summary>
 <br/>
 
+[![website](https://img.shields.io/badge/-nguyensonhai.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nguyensonhai.dev)
+[![montide](https://img.shields.io/badge/-montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://montide.app)
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@nguyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
@@ -110,7 +173,6 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 [![face](https://img.shields.io/badge/-Facebook-0165E1?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyensonhai.dev)
 [![insta](https://img.shields.io/badge/-Instagram-D82A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nguyensonhai.dev)
 [![x](https://img.shields.io/badge/-X-D0D0CF?style=for-the-badge&logo=x&logoColor=black)](https://x.com/nguyensonhaidev)
-[![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/XttK2Jxct068)
 
 </details>
 <br/>
