@@ -22,7 +22,7 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 - 💬&nbsp;&nbsp;Brainstorm with me over tech, AI, design, career, and music.
 
-- 👨🏻‍💻&nbsp;&nbsp;Most of my projects are available on [GitHub](https://github.com/nguyensonhai).
+- 👨🏻💻&nbsp;&nbsp;Most of my projects are available on [GitHub](https://github.com/nguyensonhai).
 
 - 🌎&nbsp;&nbsp;Visit my website: [www.nguyensonhai.dev](https://www.nguyensonhai.dev)
 
@@ -36,19 +36,21 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 > **Fast, private developer tools that run entirely in the browser.** No sign-up, no uploads — your data never leaves your device.
 
-**74 tools across 9 categories**, all in one clean workspace with ⌘K search, light/dark mode and English / Vietnamese:
+**128 tools across 11 categories**, all in one clean workspace with ⌘K search, light/dark mode and 10 languages:
 
 | Category | Highlights |
 | --- | --- |
-| 🎲 Generators | QR code, Wi-Fi QR, UUID v4/v7, ULID, password, BIP39, Lorem ipsum |
-| 🔐 Security | Hash, HMAC, bcrypt, AES-256-GCM, TOTP/2FA, RSA key pair, JWT decoder |
-| 🔄 Converters | Base64, URL, timestamp, JSON ↔ YAML / CSV / XML / TOML, number bases, color |
-| 🧹 Formatters | JSON formatter & diff, text diff, SQL, XML, YAML, Markdown preview |
-| ✍️ Text | Text statistics, slugify, HTML entities, NATO alphabet, ASCII art |
-| 🌐 Web & Dev | URL parser, regex tester, HTTP status codes, MIME types, user-agent parser |
-| 🖥️ System & Network | Crontab, `docker run` → Compose, chmod, IPv4 subnet, IPv6 ULA |
-| 🧮 Utilities | Calculator, percentage, temperature, stopwatch, phone & IBAN validator |
-| 🖼️ Images | Image compressor with before/after compare, batch converter, image ↔ Base64 |
+| 🎲 Generators | QR code, Wi-Fi QR, UUID v4/v7, ULID, password, BIP39, Lorem ipsum, fake data (JSON/CSV/SQL) |
+| 🔐 Security | Hash, HMAC, bcrypt, AES-256-GCM, TOTP/2FA, RSA key pair, JWT decoder & encoder, X.509 cert decoder |
+| 🔄 Converters | Base64, URL, timestamp, JSON ↔ YAML / CSV / XML / TOML, JSON → TS / Zod / Go / Rust, Gzip / Zlib |
+| 🧹 Formatters | JSON formatter & diff, text diff, SQL, XML, YAML, Markdown preview, HTML / CSS / JS, GraphQL |
+| ✍️ Text | Text statistics, slugify, HTML entities, NATO alphabet, ASCII art, regex find & replace, list compare |
+| 🌐 Web & Dev | URL parser, regex tester, HTTP status, MIME types, JSONPath, JSON Schema, cURL → fetch / Axios / Python / Go |
+| 🖥️ System & Network | Crontab, `docker run` → Compose, chmod, IPv4 subnet & CIDR, IPv6 ULA, MAC generator |
+| 🧮 Utilities | Calculator, percentage, temperature, stopwatch, time zone converter, date calculator, phone & IBAN validator |
+| 🖼️ Images | Compressor (MozJPEG / OxiPNG / AVIF), AI background remover, OCR (14 languages), video → GIF, code → image |
+| 📄 PDF | Merge, split, organize pages, images ↔ PDF, watermark, sign, protect (AES-256), unlock, compress, PDF → text |
+| 🎨 Design & Color | Color converter (OKLCH, P3), contrast checker (WCAG 2.2 + APCA), Tailwind v4 palette, SVGO, CSS generators |
 
 Built with **Next.js 16** · **React 19** · **TypeScript** · **MUI 9** — designed and developed together with **Claude Code**.
 
@@ -140,7 +142,7 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
 <details>
 <summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
  
-- 🌊 [Montide](https://montide.app) - 74 fast, private developer tools that run entirely in the browser — generators, security, converters, formatters, images and more. Built AI-first with Claude Code.
+- 🌊 [Montide](https://montide.app) - 128 fast, private developer tools that run entirely in the browser — generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
 
 - 💪 Ez Health - Building a healthy lifestyle mobile application ([See details](https://github.com/ezratech/ezhealth)).
 
