@@ -34,6 +34,37 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 ---
 
+<details>
+<summary><b>🎬&nbsp;&nbsp;Featured: Solavi</b></summary>
+<br/>
+
+### 🎬&nbsp;&nbsp;Featured: [Solavi](https://solavi.app)
+
+> **A 3D space to watch videos and hang out with friends, in real time.** Make a room, share a link, and everyone walks in together.
+
+**100 scenes, 54 characters and up to 100 people per room**, with a shared YouTube queue, chat and 10 languages:
+
+| Feature | Highlights |
+| --- | --- |
+| 🏝️ Scenes | 100 themed places — beach cinema, lagoon, canyon, volcano, autumn forest — grouped, searchable, each with a thumbnail |
+| 🧍 Characters | 54 chibi characters with real 3D portraits, 16 actions (wave, dance, punch, kick, throw…) and seats for everyone |
+| 🎵 Watch together | Synced YouTube player on a 3D screen, search, queue with shuffle, host and DJ roles |
+| 🎮 Controls | Third-person mouse look, WASD, Q wheel menu, hotkeys, crosshair-aimed throws, mobile joystick |
+| 👥 Rooms | Members list, DJ and director permissions, host handover, kick, @mentions, chat |
+| 🎨 Graphics | Low / Medium / High presets, particles, light and dark UI |
+
+Built with **Next.js 16** · **React 19** · **TypeScript** · **Three.js / React Three Fiber** · **MUI 9** · **Go + WebSocket** server — designed and developed together with **Claude Code**.
+
+<p>
+<a href="https://solavi.app"><img src="https://img.shields.io/badge/Try_it-solavi.app-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Solavi" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🌊&nbsp;&nbsp;Featured: Montide</b></summary>
+<br/>
+
 ### 🌊&nbsp;&nbsp;Featured: [Montide](https://montide.app)
 
 > **Fast, private developer tools that run entirely in the browser.** No sign-up, no uploads — your data never leaves your device.
@@ -59,6 +90,8 @@ Built with **Next.js 16** · **React 19** · **TypeScript** · **MUI 9** — des
 <p>
 <a href="https://montide.app"><img src="https://img.shields.io/badge/Try_it-montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Montide" /></a>
 </p>
+
+</details>
 
 ---
 
