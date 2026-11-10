@@ -14,6 +14,8 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 - 🌊&nbsp;&nbsp;I'm currently building [**Montide**](https://montide.app) — fast, private developer tools that run entirely in your browser.
 
+- 🎬&nbsp;&nbsp;I'm also building [**Solavi**](https://solavi.app) — a 3D space where friends watch videos and hang out together in real time.
+
 - 🤖&nbsp;&nbsp;I work AI-first: Claude Code, agentic workflows, MCP and prompt-driven development are part of my daily toolkit.
 
 - 📱&nbsp;&nbsp;I'm also working with Next.js, React Native, Flutter, RESTful API, etc.
@@ -144,6 +146,8 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
  
 - 🌊 [Montide](https://montide.app) - 128 fast, private developer tools that run entirely in the browser — generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
 
+- 🎬 [Solavi](https://solavi.app) - A 3D space to watch videos and hang out with friends in real time — 100 scenes, 54 characters, up to 100 people per room, music queue and 10 languages.
+
 - 💪 Ez Health - Building a healthy lifestyle mobile application ([See details](https://github.com/ezratech/ezhealth)).
 
 - 📚 Ez Kidel - Building a learning English vocabulary mobile application for kids who need to improve English vocabulary, listening and reading abilities. *(No longer available on Google Play.)*
@@ -168,6 +172,7 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
 
 [![website](https://img.shields.io/badge/-nguyensonhai.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nguyensonhai.dev)
 [![montide](https://img.shields.io/badge/-montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://montide.app)
+[![solavi](https://img.shields.io/badge/-solavi.app-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://solavi.app)
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@nguyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
