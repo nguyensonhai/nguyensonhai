@@ -12,9 +12,7 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 <a href="https://www.nguyensonhai.dev"><img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" /></a>
 
-- 🌊&nbsp;&nbsp;I'm currently building [**Montide**](https://montide.app) — fast, private developer tools that run entirely in your browser.
-
-- 🎬&nbsp;&nbsp;I'm also building [**Solavi**](https://solavi.app) — a 3D space where friends watch videos and hang out together in real time.
+- 🌊&nbsp;&nbsp;I'm currently building [**Montide Crew**](https://montide.app) -- a small family of apps that fly and swim: [**Raykit**](https://raykit.montide.app) (developer tools in the browser), [**Solavi**](https://solavi.app) (a 3D lounge), [**Volara**](https://volara.montide.app) (a photo editor in the browser) and [**Nesto**](https://nesto.montide.app) (a cleaner for Mac and PC).
 
 - 🤖&nbsp;&nbsp;I work AI-first: Claude Code, agentic workflows, MCP and prompt-driven development are part of my daily toolkit.
 
@@ -42,12 +40,12 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 > **A 3D space to watch videos and hang out with friends, in real time.** Make a room, share a link, and everyone walks in together.
 
-**100 scenes, 54 characters and up to 100 people per room**, with a shared YouTube queue, chat and 10 languages:
+**100 scenes, 73 characters and up to 100 people per room**, with a shared YouTube queue, chat and 10 languages:
 
 | Feature | Highlights |
 | --- | --- |
 | 🏝️ Scenes | 100 themed places — beach cinema, lagoon, canyon, volcano, autumn forest — grouped, searchable, each with a thumbnail |
-| 🧍 Characters | 54 chibi characters with real 3D portraits, 16 actions (wave, dance, punch, kick, throw…) and seats for everyone |
+| 🧍 Characters | 73 chibi characters with real 3D portraits, 16 actions (wave, dance, punch, kick, throw…) and seats for everyone |
 | 🎵 Watch together | Synced YouTube player on a 3D screen, search, queue with shuffle, host and DJ roles |
 | 🎮 Controls | Third-person mouse look, WASD, Q wheel menu, hotkeys, crosshair-aimed throws, mobile joystick |
 | 👥 Rooms | Members list, DJ and director permissions, host handover, kick, @mentions, chat |
@@ -62,14 +60,14 @@ Built with **Next.js 16** · **React 19** · **TypeScript** · **Three.js / Reac
 </details>
 
 <details>
-<summary><b>🌊&nbsp;&nbsp;Featured: Montide</b></summary>
+<summary><b>🌊&nbsp;&nbsp;Featured: Raykit</b></summary>
 <br/>
 
-### 🌊&nbsp;&nbsp;Featured: [Montide](https://montide.app)
+### 🌊&nbsp;&nbsp;Featured: [Raykit](https://raykit.montide.app)
 
 > **Fast, private developer tools that run entirely in the browser.** No sign-up, no uploads — your data never leaves your device.
 
-**128 tools across 11 categories**, all in one clean workspace with ⌘K search, light/dark mode and 10 languages:
+**128 tools across 11 categories** (part of the [Montide Crew](https://montide.app)), all in one clean workspace with ⌘K search, light/dark mode and 10 languages:
 
 | Category | Highlights |
 | --- | --- |
@@ -88,7 +86,7 @@ Built with **Next.js 16** · **React 19** · **TypeScript** · **Three.js / Reac
 Built with **Next.js 16** · **React 19** · **TypeScript** · **MUI 9** — designed and developed together with **Claude Code**.
 
 <p>
-<a href="https://montide.app"><img src="https://img.shields.io/badge/Try_it-montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Montide" /></a>
+<a href="https://raykit.montide.app"><img src="https://img.shields.io/badge/Try_it-raykit.montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Raykit" /></a>
 </p>
 
 </details>
@@ -177,9 +175,15 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
 <details>
 <summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
  
-- 🌊 [Montide](https://montide.app) - 128 fast, private developer tools that run entirely in the browser — generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
+- 🌊 [Montide Crew](https://montide.app) - A family of small apps that fly and swim, one palette and one home at montide.app. New apps join at `<name>.montide.app`.
 
-- 🎬 [Solavi](https://solavi.app) - A 3D space to watch videos and hang out with friends in real time — 100 scenes, 54 characters, up to 100 people per room, music queue and 10 languages.
+- 🌊 [Raykit](https://raykit.montide.app) - 128 fast, private developer tools that run entirely in the browser -- generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
+
+- 🎬 [Solavi](https://solavi.app) - A 3D space to watch videos and hang out with friends in real time — 100 scenes, 73 characters, up to 100 people per room, music queue and 10 languages.
+
+- 🦖 [Volara](https://volara.montide.app) - A photo and graphics editor that runs in the browser: layers, adjustment layers, selections and masks, retouch, PSD and RAW files.
+
+- 🐘 [Nesto](https://nesto.montide.app) - A cleaner for Mac and PC (the app is on its way; the home page is live).
 
 - 💪 Ez Health - Building a healthy lifestyle mobile application ([See details](https://github.com/ezratech/ezhealth)).
 
@@ -205,7 +209,10 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
 
 [![website](https://img.shields.io/badge/-nguyensonhai.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nguyensonhai.dev)
 [![montide](https://img.shields.io/badge/-montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://montide.app)
+[![raykit](https://img.shields.io/badge/-raykit.montide.app-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raykit.montide.app)
 [![solavi](https://img.shields.io/badge/-solavi.app-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://solavi.app)
+[![volara](https://img.shields.io/badge/-volara.montide.app-E8743B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://volara.montide.app)
+[![nesto](https://img.shields.io/badge/-nesto.montide.app-2B2E35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nesto.montide.app)
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nguyensonhai.dev)
 [![expo](https://img.shields.io/badge/-Expo-010121?style=for-the-badge&logo=expo&logoColor=white)](https://expo.io/@nguyensonhai)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nguyensonhai)
