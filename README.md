@@ -12,7 +12,7 @@ Beyond coding, I have a profound appreciation for music, which fuels my creativi
 
 <a href="https://www.nguyensonhai.dev"><img  align="right" alt="GIF" src="./assets/images/debugging.gif" width="280" height="280" /></a>
 
-- 🌊&nbsp;&nbsp;I'm currently building [**Montide Crew**](https://montide.app) -- a small family of apps that fly and swim: [**Raykit**](https://raykit.montide.app) (developer tools in the browser), [**Solavi**](https://solavi.app) (a 3D lounge), [**Volara**](https://volara.montide.app) (a photo editor in the browser) and [**Nesto**](https://nesto.montide.app) (a cleaner for Mac and PC).
+- 🌊&nbsp;&nbsp;I'm currently building [**Montide Crew**](https://montide.app) -- a small crew of apps that fly and swim: [**Raykit**](https://raykit.montide.app) (developer tools in the browser), [**Solavi**](https://solavi.app) (a 3D lounge), [**Volara**](https://volara.montide.app) (a photo editor in the browser) and [**Nesto**](https://nesto.montide.app) (a cleaner for Mac and PC).
 
 - 🤖&nbsp;&nbsp;I work AI-first: Claude Code, agentic workflows, MCP and prompt-driven development are part of my daily toolkit.
 
@@ -105,7 +105,7 @@ Built with **Next.js 16** · **React 19** · **TypeScript** · **MUI 9** — des
 | 📂 Files | PSD and RAW files |
 | 🎨 Skins | 5 skins, unlocked by finding the easter eggs |
 
-Part of the [Montide Crew](https://montide.app) -- the pteranodon of the family.
+Part of the [Montide Crew](https://montide.app) -- the pteranodon of the crew.
 
 <p>
 <a href="https://volara.montide.app"><img src="https://img.shields.io/badge/Try_it-volara.montide.app-E8743B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Volara" /></a>
@@ -219,7 +219,7 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
 <details>
 <summary><b>🌱&nbsp;&nbsp;Startup Projects</b></summary>
  
-- 🌊 [Montide Crew](https://montide.app) - A family of small apps that fly and swim, one palette and one home at montide.app. New apps join at `<name>.montide.app`.
+- 🌊 [Montide Crew](https://montide.app) - A crew of small apps that fly and swim, all at home on montide.app. New apps join at `<name>.montide.app`.
 
 - <img height="15" src="./assets/images/raykit.png" alt="Raykit" /> [Raykit](https://raykit.montide.app) - 128 fast, private developer tools that run entirely in the browser -- generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
 
