@@ -91,6 +91,50 @@ Built with **Next.js 16** · **React 19** · **TypeScript** · **MUI 9** — des
 
 </details>
 
+<details>
+<summary><b>🦖&nbsp;&nbsp;Featured: Volara</b></summary>
+<br/>
+
+### 🦖&nbsp;&nbsp;Featured: [Volara](https://volara.montide.app)
+
+> **A photo and graphics editor that runs in the browser.** Open an image, edit it, and keep your files on your device.
+
+| Feature | Highlights |
+| --- | --- |
+| 🖼️ Editor | Layers, adjustment layers, selections and masks, retouch and canvas tools |
+| 📂 Files | PSD and RAW files |
+| 🎨 Skins | 5 skins, unlocked by finding the easter eggs |
+
+Part of the [Montide Crew](https://montide.app) -- the pteranodon of the family.
+
+<p>
+<a href="https://volara.montide.app"><img src="https://img.shields.io/badge/Try_it-volara.montide.app-E8743B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Volara" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🐘&nbsp;&nbsp;Featured: Nesto</b></summary>
+<br/>
+
+### 🐘&nbsp;&nbsp;Featured: [Nesto](https://nesto.montide.app)
+
+> **A cleaner for Mac and PC.** Clean your disk at full speed. The app is on its way; the home page is live.
+
+| Platform | Built with |
+| --- | --- |
+| 🍎 Mac | One universal app (Apple Silicon and Intel), SwiftUI + Liquid Glass |
+| 🪟 Windows | x64 and arm64, Tauri |
+| ⌨️ CLI | The `nesto` command on macOS, Linux and Windows |
+
+Part of the [Montide Crew](https://montide.app).
+
+<p>
+<a href="https://nesto.montide.app"><img src="https://img.shields.io/badge/Try_it-nesto.montide.app-2B2E35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Nesto" /></a>
+</p>
+
+</details>
+
 ---
 
 <details>
