@@ -60,10 +60,10 @@ Built with **Next.js 16** · **React 19** · **TypeScript** · **Three.js / Reac
 </details>
 
 <details>
-<summary><b>🌊&nbsp;&nbsp;Featured: Raykit</b></summary>
+<summary><b><img height="20" src="./assets/images/raykit.png" alt="Raykit" />&nbsp;&nbsp;Featured: Raykit</b></summary>
 <br/>
 
-### 🌊&nbsp;&nbsp;Featured: [Raykit](https://raykit.montide.app)
+### <img height="24" src="./assets/images/raykit.png" alt="Raykit" />&nbsp;&nbsp;Featured: [Raykit](https://raykit.montide.app)
 
 > **Fast, private developer tools that run entirely in the browser.** No sign-up, no uploads — your data never leaves your device.
 
@@ -221,7 +221,7 @@ I treat AI as a teammate, not a shortcut. My day-to-day setup:
  
 - 🌊 [Montide Crew](https://montide.app) - A family of small apps that fly and swim, one palette and one home at montide.app. New apps join at `<name>.montide.app`.
 
-- 🌊 [Raykit](https://raykit.montide.app) - 128 fast, private developer tools that run entirely in the browser -- generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
+- <img height="15" src="./assets/images/raykit.png" alt="Raykit" /> [Raykit](https://raykit.montide.app) - 128 fast, private developer tools that run entirely in the browser -- generators, security, converters, formatters, images, PDF, design & color and more. Built AI-first with Claude Code.
 
 - 🎬 [Solavi](https://solavi.app) - A 3D space to watch videos and hang out with friends in real time — 100 scenes, 73 characters, up to 100 people per room, music queue and 10 languages.
 
